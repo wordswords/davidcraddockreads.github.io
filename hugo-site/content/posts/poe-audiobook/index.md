@@ -10,7 +10,7 @@ url: /poe-audiobook
 
 ![image](poe.jpg)
 
-I have been listening to (Edgar Allan Poe's Radio 4 readings in audiobook format)[https://www.goodreads.com/book/show/59440943-edgar-allan-poe]
+I have been listening to [Edgar Allan Poe's Radio 4 readings in audiobook format](https://www.goodreads.com/book/show/59440943-edgar-allan-poe)
 
 I find that his short stories are a really good length to listen to in noise-cancelling headphones when I am walking.
 
